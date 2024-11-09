@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+transformers
+google-cloud
+diffusers
+openai
+pydantic
